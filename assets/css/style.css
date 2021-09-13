@@ -74,3 +74,10 @@ body {
 .input-group-text {
     background-color: lavender;
 }
+
+.container {
+  background-color: rgb(145, 145, 221);
+  border-radius: 15px;
+  padding-top: 15px;
+  padding-bottom: 3px;
+}
